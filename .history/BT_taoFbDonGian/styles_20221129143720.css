@@ -1,0 +1,17 @@
+header {
+    position: fixed;
+    width: 700px;
+}
+
+nav {
+    background-color: aqua;
+    width: 100%;
+    height: ;
+}
+
+nav > ul > li {
+    position: relative;
+    float: left;
+    width: 100px;
+    background-color: red;
+}

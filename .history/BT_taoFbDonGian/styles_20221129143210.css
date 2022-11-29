@@ -1,0 +1,13 @@
+header {
+    position: fixed;
+    width: 500px;
+}
+
+nav {
+    position: relative;
+}
+
+nav > li {
+    position: relative;
+    float: left;
+}
